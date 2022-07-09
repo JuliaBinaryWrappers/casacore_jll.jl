@@ -5,23 +5,24 @@ using FFTW_jll
 using CFITSIO_jll
 using WCS_jll
 using Readline_jll
+using GSL_jll
 using OpenBLAS32_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("casacore")
-JLLWrappers.@declare_library_product(libcasa_casa, "libcasa_casa.so.6")
-JLLWrappers.@declare_library_product(libcasa_coordinates, "libcasa_coordinates.so.6")
-JLLWrappers.@declare_library_product(libcasa_derivedmscal, "libcasa_derivedmscal.so.6")
-JLLWrappers.@declare_library_product(libcasa_fits, "libcasa_fits.so.6")
-JLLWrappers.@declare_library_product(libcasa_images, "libcasa_images.so.6")
-JLLWrappers.@declare_library_product(libcasa_lattices, "libcasa_lattices.so.6")
-JLLWrappers.@declare_library_product(libcasa_meas, "libcasa_meas.so.6")
-JLLWrappers.@declare_library_product(libcasa_measures, "libcasa_measures.so.6")
-JLLWrappers.@declare_library_product(libcasa_mirlib, "libcasa_mirlib.so.6")
-JLLWrappers.@declare_library_product(libcasa_ms, "libcasa_ms.so.6")
-JLLWrappers.@declare_library_product(libcasa_msfits, "libcasa_msfits.so.6")
-JLLWrappers.@declare_library_product(libcasa_scimath, "libcasa_scimath.so.6")
-JLLWrappers.@declare_library_product(libcasa_scimath_f, "libcasa_scimath_f.so.6")
-JLLWrappers.@declare_library_product(libcasa_tables, "libcasa_tables.so.6")
+JLLWrappers.@declare_library_product(libcasa_casa, "libcasa_casa.so.7")
+JLLWrappers.@declare_library_product(libcasa_coordinates, "libcasa_coordinates.so.7")
+JLLWrappers.@declare_library_product(libcasa_derivedmscal, "libcasa_derivedmscal.so.7")
+JLLWrappers.@declare_library_product(libcasa_fits, "libcasa_fits.so.7")
+JLLWrappers.@declare_library_product(libcasa_images, "libcasa_images.so.7")
+JLLWrappers.@declare_library_product(libcasa_lattices, "libcasa_lattices.so.7")
+JLLWrappers.@declare_library_product(libcasa_meas, "libcasa_meas.so.7")
+JLLWrappers.@declare_library_product(libcasa_measures, "libcasa_measures.so.7")
+JLLWrappers.@declare_library_product(libcasa_mirlib, "libcasa_mirlib.so.7")
+JLLWrappers.@declare_library_product(libcasa_ms, "libcasa_ms.so.7")
+JLLWrappers.@declare_library_product(libcasa_msfits, "libcasa_msfits.so.7")
+JLLWrappers.@declare_library_product(libcasa_scimath, "libcasa_scimath.so.7")
+JLLWrappers.@declare_library_product(libcasa_scimath_f, "libcasa_scimath_f.so.7")
+JLLWrappers.@declare_library_product(libcasa_tables, "libcasa_tables.so.7")
 JLLWrappers.@declare_executable_product(findmeastable)
 JLLWrappers.@declare_executable_product(fits2table)
 JLLWrappers.@declare_executable_product(image2fits)
@@ -41,7 +42,7 @@ JLLWrappers.@declare_executable_product(taql)
 JLLWrappers.@declare_executable_product(tomf)
 JLLWrappers.@declare_executable_product(writems)
 function __init__()
-    JLLWrappers.@generate_init_header(FFTW_jll, CFITSIO_jll, WCS_jll, Readline_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(FFTW_jll, CFITSIO_jll, WCS_jll, Readline_jll, GSL_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libcasa_casa,
         "lib/libcasa_casa.so",
