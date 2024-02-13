@@ -1,422 +1,422 @@
 [[casacore]]
 arch = "aarch64"
-git-tree-sha1 = "db5e76fefb4aae6632bf77f1fd09da8d7dcd0ec4"
+git-tree-sha1 = "7e7d8a6bdf5128c65225a0f8e67f0548b2f809c0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[casacore.download]]
-    sha256 = "f57a2e6b7d31133311f58dff070a9e610f44bca7490394dccd0ee7128e29211f"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "b343ed31275b08cad652cf6911aeaa33f4b552b74dce606bf1d77eec3a4060d2"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[casacore]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "48f315f4fae16f6487ace3969d6398cf032e7ec7"
+git-tree-sha1 = "9e115c4060f75c9d9bda6201d317a97534907901"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "f089fb3be14f7a4bdd117dd53e98ebf95aa997a8c79c973a30327ca63d28759b"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "a8a18b006b548da0880acd5c7875589859f49d9b1a926ef0d20c2f192af043a4"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[casacore]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f1ed1aadffcba3cd95f2fd654c889ff76c95178"
+git-tree-sha1 = "791120cae7adc95ea838d8fb50ac4f29f1a4d35b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "4e39c683fac43450fad0f00a46a2e6c7525569111a60ddd4f1fe12ffb1d14da0"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "229da6c1f025209aa11a02b71b932a1da910892d9ba07169b080faedb27cd994"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[casacore]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f3221d6ce426e673438ee49029c9cdbcc4441f6d"
+git-tree-sha1 = "5df5098ea8ab7c58b96c21be7ff26ab48f8cc9eb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "2d309c00d519bf8f086f5781e924feec5ea2d7f3fa3c41a3e54901c563ae4433"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "87f58bef5058f6327a36d59764ae1c0394f3bce2053b21d33668f4f3cd599d16"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[casacore]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c0172cdf069988e8dac4ee1d8084056219c30728"
+git-tree-sha1 = "c054c5cbeaeb576b59099c574d0265f1c9c53a79"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "65f794e5f48ffbd763e3619d5c5306c151b891cea7db78024a9504c3c201776b"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "10476aa0e32395f25ce5ffb7a8ebe4f1f71f4ab3d61dd28d4fca9d18f338286f"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[casacore]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b1bcc8c696b4a98a5ed762b69d93a572951d996"
+git-tree-sha1 = "bedb0949c0d21b383611c66545850c9825ca9152"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "b70d8adb8ac7f88fd909e1d62c6fcb48daf842af78c6bc14560a3724ce0e50b8"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "36cd2cf3b1256996cd8cb4ce96380f28be3680f553b22c0e2cf3ea01fe71d25b"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[casacore]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13d09260fb6aa05576fdd98d1439eca333dc9c7d"
+git-tree-sha1 = "f8e4fc2c2bf0c1e8687d13b83f3c78fd447db253"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "2ea1602db013a19a8e14f868f22be6a6d9d9d66e0f1797d5750d161f5e6cdbcd"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "60fd6723dea6706fbcb4926f645f1507a045e6020a1bb1c68ff0118fbdad4a46"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[casacore]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "864be00ea2965bad878517aeda849eb6e96a1ca0"
+git-tree-sha1 = "b45e18769597a408daa0f9abd967c9153cfdb58b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "aaf66ae261529a2f367e6ac673ca03b8ba36340ef109647b1ef60eab01634b20"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv6l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "575918accda130f5ded149ed49a8e9bbfafc71d7569ae9cefb3dca40b7712e83"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv6l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
 [[casacore]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a79999b498337005fdfa2c27461823aac50d5bc6"
+git-tree-sha1 = "8e1b877f66d26e1432e260d4d2469844ff43367a"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "453f2c44d4b3b2149c7aa04ec6423b99f577c32d6441e883c2edc3ae070cbaeb"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv6l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "442d2531e618d9450c6079e182f7339df55baf3c7d64a0351111b6a34b8e415a"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv6l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
 [[casacore]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd919d5a01e803798b8f5afa5129e88818e42fb6"
+git-tree-sha1 = "f02bfc9ad3a78c880bc3bc74830e00e733da1e1a"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "38e48cee525a1a82b223f7350541135b1cd8bec62b4a4c0e28ac6594d70efda0"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv6l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "1bd18a980096ad008619bdae26781ebd299ab88cdfacd01f2267ea28fbf859e6"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv6l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
 [[casacore]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4eb273f8f35523a72a754cf1931e72a66deca85"
+git-tree-sha1 = "336b04174818bd849ba3b4d2050ef604b25bf549"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "149d9f2f4fa9b01940dc5bcfe79146fc8eb746b4244b206a4855dd6e9782c050"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv6l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "0e6bc53c080f57423f404bc5dd6a6d1ec9e76520e23a0fe009659a6beed52d5a"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv6l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
 [[casacore]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea32ca4427814595721724429aaf8b7cccaa1d2a"
+git-tree-sha1 = "78a06e530f1c66f9dd30fe4271f123da2873ee0d"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "5789ab8e0c313cd966f525251250be32f7785cbff3a98d71e0ac574bb39450ee"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "a1379b334a5dc4b8e9daed0a78dcccfc59d3033169456098e4aa728c02fa1780"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[casacore]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99977795c410467c1a02ee4b00b6affe086608a1"
+git-tree-sha1 = "1dd021cfd88726cd93c6e05e74418ca976b39a4b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "bdd798fb0084e655eeca7fe29799ad18ba36af8e928bdb58fc1b5c4f43fed186"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "3f3276aed49acf872bc057702d5f60a0052cedcd4a17087481ddec38776bdf15"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[casacore]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cdf0580c3f36fe176907e71321fb8ffe0312a891"
+git-tree-sha1 = "a2cbc69e60ead61b5e99c0f4b9f0a8847f05093b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "cc68bfda3ac80124ffdf40b6e944566a1fd2f330b0157258c7d7131189e55df4"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "0809bbd7e68d7d6513ef88f0c3b255be9b44541e82aba7dfd353ae151a6ea871"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
 [[casacore]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "263defae09e5574417ac8011b9f91dd258f495dc"
+git-tree-sha1 = "a5a577671506257f9df216ef29970639bff0bbaf"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "7fd4a0dd9eb1a0c702f2c4a06e91b60fed8152d27ec19b15139ee298d0eb6fd1"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "974fd69887e955207d441f0b5a5a62fb789afcb4eb22a2204ed6da9fb75b85db"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
 [[casacore]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "daea4bd15857d3d1d3c5a40cae75dcd4bb70ba7f"
+git-tree-sha1 = "08c7470dcc138ed817d74c45f89447990789107a"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "5d6ddf5f39fc60b2e894820845217e5c9b4ee67e1a841a439c15ba9bfc6a9b57"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "ecba5a9eca8d10c34383b771e3261bb6496ea83323a7c27cfaacdf94ab162d46"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
 [[casacore]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f64c0af12a70318059866056ddfdc38232045f1"
+git-tree-sha1 = "46315c82bddee23e475f2a68b49cf15daa1a7958"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "0fcc1ad9d2515f35f942baf64868bec39efad87bdf054aef37fffe7637dbefa4"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "1eff208bb04109de29f9784a54bf28c95a6b0cf64ef01b633f13a0280988eb6a"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
 [[casacore]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2059fcf90d4e8f39f653bbbe51642e25cab6c0f"
+git-tree-sha1 = "f48c5db2984cc1ccb26d5b514a5369bbfba7cfe1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "054d279941269c942ce965144e8b97a3235b548980da1f4ed0c975e791b72c92"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "a249b89a92505fb5bc161f57b06b8dd2986985a06898fc211ddbb3f606763369"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[casacore]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe4bdf59f1fac5572f71973d15970db5ba133750"
+git-tree-sha1 = "3b7890a03569568dfcaa95280f72a5ab2c8367e2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "1f3db4d8d1623effc55a3fc0acb007252aa7b4dd5bfe6e4daa1412e0b746e7c9"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "204293adeb2072371a433d271365d3cd7ef1743c0ded87aacd9c0c140ccb056b"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[casacore]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4ad010110a6cc97f7c3470f74ec7f6f9aef0af1f"
+git-tree-sha1 = "9131f4b6d40819fa55c8beb6b32aac69ff9bc684"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "e6bcd2a1ed77046fcebd3c4c82bf66af4aad519f92ce8425f5fefea5a78dbc0b"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "cec5ae7169ceedfa7812b9b42e6595e01e9ae46daeef10822fb0a9f7587e1a4f"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[casacore]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2111060ca7894c32011d22a741d08a37abef0fc0"
+git-tree-sha1 = "9121ab21e583640ec5730ff3e5481068993c7519"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "65471cd3c753c6ae14c98905bd8ac61cecec2bbc46bf3606c4783655b2ba07ae"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "cce7dbdbe5d377bab57c44f530ba53f39d186024415cac3145f5e81fe3eccfdd"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[casacore]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "88c638d360b33a94911ab4a93401a5eeda2a0e8b"
+git-tree-sha1 = "b6c863ec8054b4ff05242def0c2420c3ef4d6a67"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "9edeecb1fb5d1df13fb96dc15dd0863acf5b1f17723334592bad0c4b40aeb895"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "cf4ab9f110b6a712628d61521f6e5d1e1a27e3b04086fea4840a41fe505fe02a"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[casacore]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ea1b9610880b1f3da0c129ab8c4e22eb7c78396c"
+git-tree-sha1 = "6ea1f49dfeef03b4d7100b6d8eb424598ff7bceb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "fc4e6b25ee55d586599774b4d609c5e3379081cdbdbc8cf43bff55f95c5bdea9"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "633d896a1365cf4c8d888d2087f55f93cdbd573447fc8952563943dec53861b9"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[casacore]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b64338dea391f184591f8a8aefa9c39918085162"
+git-tree-sha1 = "9e2db7ba66847ec53009bb29b5e7f99d8ae2ffa3"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "79ca8af5106c563bcf316f2c57d84f127b76074dc54b3d4e82fe29056d5e7cc2"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "eee7d1f976d4f0d694b00ca7fc197b18fd95544bc6517479a7b09a6a476b6219"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[casacore]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e5341ef76ef04fb2fad7b39c12891416cf50aa2"
+git-tree-sha1 = "cff2675cec66dfb29145e3c39e257246c981d1a8"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "61d219249b6851c35623aec413bc633a04eb904b149c34fa050e62f5d5e080d4"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "78bbbc9431d177fffcf5459b51f6f5b5385f5394b8151300a082c172126bb59d"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[casacore]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f596b7b1253e71adf5a300d5701ebc936a099a3e"
+git-tree-sha1 = "fbd9fa8bf6a522b0ae23aebe79cc2dd6eed6fa16"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "85f6ab3539fc059e7a2897a28cfaf7c6481bec9b1f8f5377fbb0d61aebd15fdc"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "f407a687d19a1c80e2b5b946c8491df23eeb6f5a7a559ee20ec3a723258c48f1"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[casacore]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6923c2dbe9cc229d67ccbe6749be36fc4ccf539d"
+git-tree-sha1 = "79123801aaf4968de8355a163c8ea4f6c1ae1a1f"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "4907a0e861c36c1f6db709a17afac6614d7e104233f18a8358043c66ffb1f65c"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "1a07e2f3b73110fc1a723a2559bddf78ad71881bf21e467fb99c4c7a96de6598"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[casacore]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d0c3dfb13de023b28005f94af516076ee195ecc9"
+git-tree-sha1 = "2396ac3c8caa06c9b961515fd78908fcb5c4019c"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "56600c014a527636c513490479634254a15bddf0f1b320876850a9b4ffe6cc5a"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "e6387bb0ef33e5d605d1b2dee7354c4d856e8c4d04611511d6cdaa753e383123"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[casacore]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "10fce97574aa862adaf65e6c971169c2d1e1942a"
+git-tree-sha1 = "d93d045fb92df83b0a111b542f2d25925cf4857d"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "de8f16b908538272e0cd29a15f7383a4659b075c0bdf75d05ec9f6195f0603a2"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "153c089b58a21c01fff6e1c5e7d4e33f79f14189505a4cdfbfc42e5370fd14bf"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[casacore]]
 arch = "x86_64"
-git-tree-sha1 = "7b135624edf36fd7ca64ec1ac7fabe65c395ce87"
+git-tree-sha1 = "82a9b33092a0bd2aaacf7a175523bc1ae5c2eacb"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[casacore.download]]
-    sha256 = "a54d47afdf2a90de77128ea1eae8b9f1761d22faaf71c040686823461517cc99"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "c1fff8784a370b11be44403f358fc1d49408e897284d166e8a675ab1895733c3"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[casacore]]
 arch = "x86_64"
-git-tree-sha1 = "7614d0d6deef1d47c1f1779b9863867e197f8675"
+git-tree-sha1 = "ce573b90c9e133d067117279061a846e9832692e"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[casacore.download]]
-    sha256 = "b69c7ea10c822fbaca70ea80b18cf18566e62a6faaabbb740fdd527d220ff4bb"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "1354437e1744c1ff2762426937f232141e1b703fa12521e35b76de54d8b63dbc"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[casacore]]
 arch = "x86_64"
-git-tree-sha1 = "24d2553f52de5fdb4d2385f5cd01ca680ecd843d"
+git-tree-sha1 = "d4597f86156fc83c34c399f3dfc2338d34ce9aa8"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[casacore.download]]
-    sha256 = "8927f3655d03f0b029271d9928c950ee731c5f632a2fc65278a0a9bf752df215"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "207a1b05603e26b21494abdbc97e0e8461c46f60b138d67be9e24bb2af3931e6"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[casacore]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5cc570022e0151513c56b1b1907967f14ca3fdd"
+git-tree-sha1 = "d425b4edc2a7b9abb5c7f414259c72b2a36027ad"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "4023ffefe6f5472df9765087e485847d346e481822e7a61dcd0a31d19e474a36"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "b1d84ce83dfa66c77e5971321739cbf896954778f855e9c63f2c682ae7b7a15e"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[casacore]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0966b73336293f07b1c95ae5f31677188b629162"
+git-tree-sha1 = "43a3f02d2c0fea0a7f122c26f2d20f42903fc596"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "e9d96882ded99ec67cf2baa65c8bb98fb217fe3c68a2200d7952b490863e3724"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "25e3cb4d8c7de3f4f719e73310fe2befe17a90ddbc3814637a0c1994a99b7747"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[casacore]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6c8d7cb69ec3158e27695327781f03c58ccda43"
+git-tree-sha1 = "f2d6fa2d8bbd357c842b9e98b33ea979d49fe285"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "6579a29f9f0088d5fc149a9d31f831a0d268534279150bbf45a242d1a8a6580e"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "e3950f019571f32cbadbc8d0746da7e4a93afdbd63a9ff17f3d8ffe3d0f212c8"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[casacore]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b38f1a6c521b388bd71c7cc90b29477c1bdcc6cd"
+git-tree-sha1 = "a66f53bf49bd9d7efc41418911703cd1b1cce9cc"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "e472e47bff215ee7cb885b1fe9537cb55124dbed9438ccb7db6b8240b0be4a87"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "c0b397eff3452b02d48accfa4502e858e0046db37771d89ea500b0cc54db6f04"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[casacore]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "11890156134948e4109161231c438c8aa0b3636f"
+git-tree-sha1 = "bc8899aef94e348e961c2b8a29605f6f2bc12e31"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "57210f56ce072fe91af2103d3cfe99abfa652da978e98c56d18a4b1e1f0199cf"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "aee91e103b6134fc44d322af4003f139c3aebd9af30c7d65bb284bce643be002"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[casacore]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9501f83e605d8126473708d879a4085f475d198d"
+git-tree-sha1 = "284db20f5e28d2acbc70c9a4b530c3d700a4a9aa"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[casacore.download]]
-    sha256 = "321e3d767208ba6b2bcc39e19964ec37197caf76def381688c73a2b9215e248f"
-    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.0+0/casacore.v3.5.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "ec71ebc62fd32d683f9bce558cb552eb69a2a9ae5a4a2b3f5f39ede8741be077"
+    url = "https://github.com/JuliaBinaryWrappers/casacore_jll.jl/releases/download/casacore-v3.5.1+0/casacore.v3.5.1.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
